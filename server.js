@@ -12,9 +12,9 @@ const upload = multer({ dest: 'uploads/' });
 
 const config = {
   user: 'sa',
-  password: 'saul',
-  server: 'INFORMATICA4306',
-  database: 'android',
+  password: 'ViVCliLfjbyWcEjgwwZk5LC3fy4WBVVR',
+  server: 'dpg-d2mdc1qdbo4c73d6m020-a',
+  database: 'informatica_io8k',
   options: {
     encrypt: false,
     trustServerCertificate: true,
